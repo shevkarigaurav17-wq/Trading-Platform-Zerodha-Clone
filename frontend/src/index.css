@@ -1,0 +1,18 @@
+
+
+body {
+  margin: 0;
+}
+
+#root {
+  width: 100%;
+}
+#supporthero{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+#rowcontent{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 100px ;
+}

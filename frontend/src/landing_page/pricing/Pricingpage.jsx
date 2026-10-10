@@ -1,0 +1,12 @@
+import Hero from './Hero';
+import Brokerage from './Brokerage';
+import OpenAccount from '../OpenAccount'
+export default function Aboutpage(){
+    return(
+        <>
+        <Hero/>
+        <OpenAccount/>
+        <Brokerage/>
+        </>
+    )
+}
