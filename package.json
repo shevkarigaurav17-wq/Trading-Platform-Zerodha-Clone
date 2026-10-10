@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-router": "^8.4.0",
+    "react-router-dom": "^7.18.4"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
